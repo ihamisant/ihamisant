@@ -15,7 +15,7 @@
 - 🎓 Currently studying **Informatics** at **Universitas Sebelas April (UNSAP)**
 - 🌲 Passionate about **Cyber Security**, Network Defense, and **Python Scripting**
 - 🛠️ Crafting web applications and exploring digital security ecosystems
-- 📬 Connect with me: **ilhamihsantanjung@gmail.com**
+- 📬 Connect with me: **ilhamihsant@gmail.com**
 
 ---
 
@@ -39,16 +39,6 @@
 </p>
 
 ---
-
-### 📊 Forest Activity & Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ihamisant&show_icons=true&theme=forest&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihamisant&layout=compact&theme=forest&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=footer" width="100%"/>
 </p>
